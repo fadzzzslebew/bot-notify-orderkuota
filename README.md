@@ -1,4 +1,4 @@
-# <div align='center'>WhatsApp Web API</div>
+# <div align='center'>Bot Telegram & WhatsApp Notification</div>
 
 <div align="center">
 
