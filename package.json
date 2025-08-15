@@ -1,0 +1,29 @@
+{
+  "name": "bot-notification",
+  "version": "1.0.0",
+  "description": "Bot Telegram & WhatsApp Bot by Fadzzz Digital",
+  "keywords": [
+    "bot-notification"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fadzzzdigital"
+  },
+  "license": "ISC",
+  "author": "fadzzzdigital",
+  "type": "commonjs",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@fadzzzdigital-corp/baileys": "^1.0.3",
+    "api-fadzzz": "^0.0.6",
+    "axios": "^1.11.0",
+    "fs": "^0.0.1-security",
+    "jimp": "^0.16.13",
+    "node-telegram-bot-api": "^0.66.0",
+    "pino": "^9.8.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
